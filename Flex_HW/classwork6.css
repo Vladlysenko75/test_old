@@ -1,6 +1,63 @@
 .father {
     width: 600px;
-    height: 1000px;
-    background-color: grey;
+    height: 970px;
 }
+
+.same {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.raz {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dva {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home {
+    width: 280px;
+    height: 400px;
+    background-color: dodgerblue;
+}
+
+.about {
+    width: 280px;
+    height: 400px;
+    background-color: dodgerblue;
+}
+
+.kabobs {
+    width: 600px;
+    height: 250px;
+    background-color: dodgerblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.color {
+    background-color: darkblue;
+}
+
+.shish {
+    width: 160px;
+    height: 300px;
+}
+
+.bbq {
+    width: 160px;
+    height: 300px;
+}
+
+.summer {
+    width: 160px;
+    height: 300px;
+}
+
+
+
 

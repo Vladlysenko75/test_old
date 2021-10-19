@@ -1,0 +1,59 @@
+.same {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.father {
+    width: 800px;
+    height: 600px;
+    background-color: grey;
+}
+
+.mother {
+    height: 400px;
+    width: 800px;
+    background-color: darkred;
+    display: flex;
+}
+
+.reverse {
+    display: flex;
+}
+
+.a {
+    height: 200px;
+    width: 800px;
+    background-color: #f1ec17;
+}
+
+.b {
+    width: 600px;
+    height: 200px;
+    background-color: hotpink;
+}
+
+.c {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+
+.d {
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+}
+
+.e {
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+}
+
+.f {
+    height: 400px;
+    width: 200px;
+    background-color: darkslateblue;
+}
+

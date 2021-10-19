@@ -1,0 +1,39 @@
+.father {
+    height: 800px;
+    width: 600px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.same {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mother {
+    height: 200px;
+    width: 600px;
+    background-color: royalblue;
+}
+
+.aunt {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.blocks {
+    width: 180px;
+    height: 150px;
+    background-color: darkblue;
+}
+
+.son {
+    background-color: royalblue;
+    width: 600px;
+    height: 400px;
+}

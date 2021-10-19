@@ -1,0 +1,30 @@
+.father {
+    width: 900px;
+    height: 600px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.uncle {
+    width: 880px;
+    height: 200px;
+    margin: 10px;
+    background-color: #f1ec17;
+}
+
+.mother {
+    display: flex;
+}
+
+.son {
+    background-color: darkred;
+    width: 700px;
+    height: 400px;
+}
+
+.brother {
+    background-color: chartreuse;
+    width: 300px;
+    height: 400px;
+}

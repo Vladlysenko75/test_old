@@ -1,0 +1,47 @@
+.father {
+    height: 700px;
+    width: 600px;
+    background-color: grey;
+}
+
+.same {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mother {
+    width: 600px;
+    height: 100px;
+    background-color: royalblue;
+}
+
+.aunt {
+    width: 600px;
+    height: 100px;
+    background-color: darkblue;
+}
+
+.main {
+    width: 400px;
+    height: 400px;
+    background-color: deepskyblue;
+}
+
+.uncle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aside {
+    width: 200px;
+    height: 400px;
+    background-color: darkslateblue;
+}
+
+.footer {
+    width: 600px;
+    height: 100px;
+    background-color: aquamarine;
+}

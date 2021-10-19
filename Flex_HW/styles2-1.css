@@ -1,0 +1,42 @@
+.father {
+    background-color: aquamarine;
+    height: 1000px;
+    width: 600px;
+}
+
+.wide {
+    width: 600px;
+    height: 200px;
+}
+
+#header {
+    background-color: chartreuse;
+}
+
+.easter {
+    display: flex;
+}
+
+.namesto {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#menu {
+    height: 600px;
+    width: 200px;
+    background-color: hotpink;
+}
+
+.post {
+    height: 290px;
+    width: 400px;
+    border: 5px solid darkred ;
+    background-color: cornflowerblue;
+}
+
+#footer {
+    background-color: #f1ec17;
+}
+

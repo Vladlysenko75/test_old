@@ -1,0 +1,120 @@
+.grandfather {
+    height: 2100px;
+    background-color: midnightblue;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.wide {
+    width: 100%;
+}
+
+.header {;
+    height: 100px;
+    background-color: firebrick;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_rectangle {
+    height: 70px;
+    width: 150px;
+    margin: 10px;
+}
+
+.block3 {
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.block3_rectangle {
+    height: 280px;
+    width: 880px;
+    margin: 10px;
+    position: absolute;
+    top: -100px;
+}
+
+.block4 {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.block4_rectangle {
+    height: 180px;
+    width: 430px;
+    margin: 10px;
+}
+
+.block5 {
+    height: 700px;
+    display: flex;
+    background-color: firebrick;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.block5_button {
+    width: 100px;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+.block6 {
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.part1 {
+    width: 430px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.part1_rectangle {
+    width: 430px;
+    height: 87px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.part1_rectangle2 {
+    width: 430px;
+    height: 380px;
+}
+
+.block7 {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: firebrick;
+}
+
+.block7_rectangle1 {
+    width: 650px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+.block7_rectangle2 {
+    width: 400px;
+    height: 30px;
+}
